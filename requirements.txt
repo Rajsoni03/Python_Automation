@@ -1,0 +1,5 @@
+pyautogui
+selenium
+pyaudio
+pyttsx3
+speech_recognition
